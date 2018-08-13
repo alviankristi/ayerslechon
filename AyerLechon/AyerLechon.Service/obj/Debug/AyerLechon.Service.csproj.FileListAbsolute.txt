@@ -1,0 +1,17 @@
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\AyerLechon.Service.dll.config
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\AyerLechon.Service.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\AyerLechon.Service.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\AyerLechon.Model.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\AyerLechon.Repo.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\Newtonsoft.Json.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\nunit.framework.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\AyerLechon.Model.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\AyerLechon.Repo.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\AyerLechon.Repo.dll.config
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\Newtonsoft.Json.xml
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Debug\nunit.framework.xml
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Debug\AyerLechon.Service.csprojAssemblyReference.cache
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Debug\AyerLechon.Service.csproj.CoreCompileInputs.cache
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Debug\AyerLechon.Service.csproj.CopyComplete
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Debug\AyerLechon.Service.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Debug\AyerLechon.Service.pdb

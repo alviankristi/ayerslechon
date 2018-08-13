@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyerLechon.Api", "AyerLechon.Api\AyerLechon.Api.csproj", "{4665F3C3-91B0-4F05-A960-FEDC959D7DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyerLechon.Repo", "AyerLechon.Repo\AyerLechon.Repo.csproj", "{8199DF46-7310-4016-AB76-F3F193609C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyerLechon.Model", "AyerLechon.Model\AyerLechon.Model.csproj", "{DCEC9486-B60D-4FB8-9A88-CEC1D4D3FDC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AyerLechon.Tests", "AyerLechon.Tests", "{117DA0EE-0037-4F27-B285-92E5CEFA62E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyerLechon.IntegrationsTest", "AyerLechon.IntegrationsTest\AyerLechon.IntegrationsTest.csproj", "{6BCAEF87-A561-4549-B0CD-E9A97E6C5848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyerLechon.Service", "AyerLechon.Service\AyerLechon.Service.csproj", "{DC88CB5C-0FF8-4253-B5D3-F0689DBC9E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4665F3C3-91B0-4F05-A960-FEDC959D7DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4665F3C3-91B0-4F05-A960-FEDC959D7DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4665F3C3-91B0-4F05-A960-FEDC959D7DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4665F3C3-91B0-4F05-A960-FEDC959D7DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8199DF46-7310-4016-AB76-F3F193609C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8199DF46-7310-4016-AB76-F3F193609C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8199DF46-7310-4016-AB76-F3F193609C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8199DF46-7310-4016-AB76-F3F193609C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEC9486-B60D-4FB8-9A88-CEC1D4D3FDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEC9486-B60D-4FB8-9A88-CEC1D4D3FDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEC9486-B60D-4FB8-9A88-CEC1D4D3FDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEC9486-B60D-4FB8-9A88-CEC1D4D3FDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCAEF87-A561-4549-B0CD-E9A97E6C5848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCAEF87-A561-4549-B0CD-E9A97E6C5848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCAEF87-A561-4549-B0CD-E9A97E6C5848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCAEF87-A561-4549-B0CD-E9A97E6C5848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC88CB5C-0FF8-4253-B5D3-F0689DBC9E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC88CB5C-0FF8-4253-B5D3-F0689DBC9E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC88CB5C-0FF8-4253-B5D3-F0689DBC9E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC88CB5C-0FF8-4253-B5D3-F0689DBC9E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BCAEF87-A561-4549-B0CD-E9A97E6C5848} = {117DA0EE-0037-4F27-B285-92E5CEFA62E0}
+	EndGlobalSection
+EndGlobal

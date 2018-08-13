@@ -1,0 +1,17 @@
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\AyerLechon.Service.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\AyerLechon.Service.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\AyerLechon.Model.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\AyerLechon.Repo.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\AyerLechon.Model.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\AyerLechon.Repo.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\AyerLechon.Repo.dll.config
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\EntityFramework.xml
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Release\AyerLechon.Service.csprojResolveAssemblyReference.cache
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Release\AyerLechon.Service.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Release\AyerLechon.Service.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Service\obj\Release\AyerLechon.Service.csproj.CoreCompileInputs.cache
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\AyerLechon.Service.dll.config
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\Newtonsoft.Json.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\nunit.framework.dll
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\Newtonsoft.Json.xml
+E:\Oprekan\AyerLechon\AyerLechon.Service\bin\Release\nunit.framework.xml

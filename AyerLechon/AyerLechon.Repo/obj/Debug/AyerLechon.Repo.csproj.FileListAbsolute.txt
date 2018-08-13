@@ -1,0 +1,14 @@
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\AyerLechon.Repo.dll.config
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\AyerLechon.Repo.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\AyerLechon.Repo.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\AyerLechon.Model.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\EntityFramework.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\AyerLechon.Model.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\EntityFramework.xml
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Debug\AyerLechon.Repo.csprojAssemblyReference.cache
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Debug\AyerLechon.Repo.csproj.CoreCompileInputs.cache
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Debug\AyerLechon.Repo.csproj.CopyComplete
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Debug\AyerLechon.Repo.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Debug\AyerLechon.Repo.pdb

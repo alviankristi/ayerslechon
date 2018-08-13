@@ -1,0 +1,6 @@
+E:\Oprekan\AyerLechon\AyerLechon.Model\bin\Debug\AyerLechon.Model.dll
+E:\Oprekan\AyerLechon\AyerLechon.Model\bin\Debug\AyerLechon.Model.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Model\obj\Debug\AyerLechon.Model.csprojAssemblyReference.cache
+E:\Oprekan\AyerLechon\AyerLechon.Model\obj\Debug\AyerLechon.Model.csproj.CoreCompileInputs.cache
+E:\Oprekan\AyerLechon\AyerLechon.Model\obj\Debug\AyerLechon.Model.dll
+E:\Oprekan\AyerLechon\AyerLechon.Model\obj\Debug\AyerLechon.Model.pdb

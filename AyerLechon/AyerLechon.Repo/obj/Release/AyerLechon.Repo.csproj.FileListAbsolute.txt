@@ -1,0 +1,13 @@
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\AyerLechon.Repo.dll.config
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\AyerLechon.Repo.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\AyerLechon.Repo.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\AyerLechon.Model.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\EntityFramework.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\EntityFramework.SqlServer.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\AyerLechon.Model.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\EntityFramework.xml
+E:\Oprekan\AyerLechon\AyerLechon.Repo\bin\Release\EntityFramework.SqlServer.xml
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Release\AyerLechon.Repo.csprojResolveAssemblyReference.cache
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Release\AyerLechon.Repo.dll
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Release\AyerLechon.Repo.pdb
+E:\Oprekan\AyerLechon\AyerLechon.Repo\obj\Release\AyerLechon.Repo.csproj.CoreCompileInputs.cache
